@@ -54,29 +54,6 @@ The model achieved:
 
 The confusion matrix and classification report are included in the notebook.
 
----
-
-##  Repository Structure
-
-stress-level-prediction-ml-project/
-│
-├── stress_prediction.ipynb        # Full ML workflow
-├── dataset.csv                    # Synthetic dataset
-├── README.md                      # Project documentation
-│
-├── old-aspnet-app/                # Original academic ASP.NET project
-│   ├── *.sln
-│   ├── App_Code/
-│   ├── App_Data/
-│   ├── pages/
-│   └── (other ASP.NET files)
-│
-├── Final report.pdf               # Academic project report
-├── Final report(conference).pdf   # Conference version
-└── Final ppt.pptx                 # Project presentation
-
----
-
 ## Tech Stack
 
 ### **Machine Learning**
