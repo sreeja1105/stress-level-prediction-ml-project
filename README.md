@@ -12,7 +12,7 @@ software engineering implementation to a clean, reproducible ML workflow.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal of this project is to classify individuals as:
 
@@ -25,7 +25,7 @@ is trained to perform the prediction.
 
 ---
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 
 The ML pipeline includes:
 
@@ -43,7 +43,7 @@ The notebook `stress_prediction.ipynb` contains the full implementation.
 
 ---
 
-## 📊 Results
+##  Results
 
 The model achieved:
 
@@ -56,7 +56,7 @@ The confusion matrix and classification report are included in the notebook.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 stress-level-prediction-ml-project/
 │
@@ -75,8 +75,9 @@ stress-level-prediction-ml-project/
 ├── Final report(conference).pdf   # Conference version
 └── Final ppt.pptx                 # Project presentation
 
+---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Machine Learning**
 - Python  
@@ -95,7 +96,7 @@ stress-level-prediction-ml-project/
 
 ---
 
-## 📄 Original Academic Work
+##  Original Academic Work
 
 This repository includes the original ASP.NET implementation submitted as part of my 
 Bachelor’s project, along with the conference and academic reports.  
@@ -103,7 +104,7 @@ The ML notebook represents a modern extension of the original idea.
 
 ---
 
-## 🚀 How to Run the ML Notebook
+##  How to Run the ML Notebook
 
 1. Install dependencies:
 pip install pandas numpy scikit-learn matplotlib seaborn
@@ -113,7 +114,7 @@ jupyter notebook stress_prediction.ipynb
 
 ---
 
-## ✨ Future Improvements
+##  Future Improvements
 
 - Hyperparameter tuning  
 - Additional ML models (Random Forest, SVM, XGBoost)  
@@ -122,7 +123,7 @@ jupyter notebook stress_prediction.ipynb
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Sreeja Kotha**  
 Hybrid Data Engineer | Analytics Engineer | Backend Developer  
